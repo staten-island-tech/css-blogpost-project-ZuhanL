@@ -3,6 +3,24 @@ body {
   font-size: xx-large;
   font-family: "Oswald", sans-serif;
 }
+h2 {
+  text-align: center;
+  font-size: 45px;
+  font-family: "Inconsolata", monospace;
+}
+.background1 {
+  background-image: url(images/pic1.jpg);
+  color: deeppink;
+  margin: 20px auto;
+  border: deeppink 5px solid;
+}
+.background2 {
+  background-image: url(images/Blog\ pic\ 2.5.jpg);
+  background-position: center;
+  color: red;
+  margin: 20px auto;
+  border: red 5px solid;
+}
 .back {
   background-image: url(images/pic\ 3.5.jpg);
   color: white;
@@ -10,34 +28,3 @@ body {
   margin: 20px auto;
   border: white 5px solid;
 }
-h1 {
-  text-align: center;
-  font-size: 45px;
-  font-family: "Inconsolata", monospace;
-}
-h2 {
-  text-align: center;
-  font-size: 45px;
-  font-family: "Inconsolata", monospace;
-}
-h3 {
-  text-align: center;
-  font-size: 45px;
-  font-family: "Inconsolata", monospace;
-}
-.background1 {
-  background-image: url(images/pic1.jpg);
-  color:deeppink;
-  margin: 20px auto;
-  border: deeppink 5px solid;
-}
-.background2 {
-  background-image: url(images/Blog\ pic\ 2.5.jpg);
-  background-position: center;
-  color:red;
-  margin: 20px auto;
-  border: red 5px solid;
-{
-
-
-
